@@ -1,0 +1,41 @@
+# 실행 파일
+pos
+*.exe
+
+# Object 파일
+*.o
+
+# 임시 파일들
+*.tmp
+*~
+.DS_Store
+
+# VS Code 설정 파일
+.vscode/
+*.code-workspace
+
+# 데이터 파일 (나중에 필요하면 주석 해제)
+# *.txt
+# *.dat
+
+# 디버그 파일
+*.dSYM/
+
+# Prerequisites
+*.d
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Build 디렉토리
+build/
+bin/
